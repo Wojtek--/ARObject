@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">        3D Viewier</string>
+    <string name="rotate">	    obrót</string>
+    <string name="translate">	    przemieszczenie</string>
+    <string name="scale">	    rozmiar</string>
+    <string name="loading">	    Ładowanie…</string>
+    <string name="choose_a_model">	    Wybierz model:</string>
+
+</resources>
